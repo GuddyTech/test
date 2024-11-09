@@ -36,5 +36,5 @@ jobs:
           echo test, and deploy your project.
           
       - name: Run our python script
-        run: python3 time.py
+        run: python3 doc/GITHUB-ACTION/time.py
   
